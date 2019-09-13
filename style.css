@@ -1,0 +1,39 @@
+/*shortbio style sheet*/
+
+h1, h2, h3 { 
+    font-family: 'Monoton', cursive;
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+}
+
+p {
+    font-family:'Staatliches', cursive;
+    color: whitesmoke;
+    font-weight: lighter;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+img {
+    width: 225px;
+    height: 225px;
+    border: 8px solid grey;
+    border-bottom: 130px transparent grey;
+}
+
+.aligncenter {
+    text-align: center;
+    border: 5px;
+}
+
+.socialmedia {
+    font-family: 'Raleway Dots', cursive;
+    color: greenyellow;
+    font-weight: lighter;
+    text-shadow: 25px;
+
+}
